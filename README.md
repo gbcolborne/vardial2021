@@ -4,9 +4,9 @@ Code developed for the Uralic language identification shared task at VarDial 202
 
 ## Usage
 
-Main scripts are `pretrain.py' and `run_langid.py'. For usage details, run:
+Main scripts are `pretrain.py` and `run_langid.py`. For usage details, run:
 
 ```
 python pretrain.py -h
 python run_langid.py -h
-'''
+```
